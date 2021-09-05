@@ -12,13 +12,13 @@ Repositorio // Grupo 5 DH 2021
 ----
 https://www.skullcandy.com/
 -
-	Por el diseño visual que tiene de sus productos en el home, el contraste que manera en las distintas imagenes
+	Por el diseño visual que tiene de sus productos en el home, el contraste que maneja en las distintas imagenes
 	y la variedad de productos que venden en su página web. Además de manejar un encabezado pequeño dandole más relevancia
-	a las imagenes del home. Usa poco texto y es más vísual.
+	a las imagenes del home. Usa poco texto y es más visual.
 ----
 https://www.blissworld.com/
 -
-	La transición/ animación que maneja de las imagenes en el home para ir mostrando los últimos productos en su catalogo,
+	La transición/ animación que maneja de las imagenes en el home para ir mostrando los últimos productos en su catálogo,
 	también el uso de logotipos para identificar mejor las opciones de "inicio de usuario" y "el carrito de compras".
 ----
 https://www.netflix.com/co/
@@ -29,7 +29,7 @@ https://www.netflix.com/co/
 ----
 https://www.bugaboo.com/us-en
 -
-	El uso de animaciones en el home para el producto más llamativo y a medida que se va bajando por el home se ven 
+	El uso de animaciones en el home para el producto es más llamativo y a medida que se va bajando por el home se ven 
 	distintos productos de ellos cada uno con su propio fondo y colores, pero sin que se pierda la esencia de ser todos
 	de una misma empresa/creador
 ----
