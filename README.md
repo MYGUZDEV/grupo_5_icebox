@@ -4,7 +4,11 @@ Repositorio // Grupo 5 DH 2021
 
 ****Temática del sitio y público objetivo.***
 
-
+Nuestro sitio está enfocado a todas aquellas personas que hacen uso de su valor humano buscando una experiencia agradable, fluida, con buenos resultados en su elección.
+Para todo esto y más estamos nosotros, un equipo de 4 desarrolladores, queremos brindar un resultado positivo en la esfera del entretenimiento y cultura con un abanico de posibilidades en libros, películas y juegos, dirigido en su mayoría a un público de mediana edad, entre 16 a 40 años de edad.
+La interfaz que buscamos es simple, sencilla y agradable a diferentes gustos y culturas, cumpliendo la demanda y necesidades del público en constante evolución.
+Y a todos aquellos desarrolladores que deseen proponer mejoras y opciones serán bienvenidas!
+Bienvenido al maravilloso mundo de ustedes!!!
 
 
 **** Referentes E-commerce ****
