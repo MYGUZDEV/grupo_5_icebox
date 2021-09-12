@@ -43,4 +43,7 @@ https://www.kettleandfire.com/
 	un producto nuevo a punto de salir o el producto que más se vende. Aunque tiene mucho texto, no queda pesado y se entiende
 	que es lo que quieren vender, las reseñas de los productos así como la clasificación de los mismos.
 
-	
+****TABLERO DE TRABAJO TRELLO****
+
+https://trello.com/b/njLsu8gf/proyecto-integrador
+
