@@ -1,4 +1,4 @@
-# grupo_5_librospeliculasjuegos
+# grupo_5_icebox
 Repositorio // Grupo 5 DH 2021
 ---
 
