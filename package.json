@@ -1,0 +1,30 @@
+{
+  "name": "icebox",
+  "version": "1.0.0",
+  "description": "poyecto integrador ICEBOX",
+  "main": "home.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LowOnCYAN23/grupo_5_icebox.git"
+  },
+  "keywords": [
+    "books",
+    "movies",
+    "series",
+    "icebox",
+    "games",
+    "poryect"
+  ],
+  "author": "PABLO DANIEL GUZMAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LowOnCYAN23/grupo_5_icebox/issues"
+  },
+  "homepage": "https://github.com/LowOnCYAN23/grupo_5_icebox#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
